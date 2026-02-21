@@ -1,0 +1,17 @@
+telegram:
+  bot_token: "8440428319:AAFLSYpnwWOXDdkfihzjPmZMqcxsJppYcaU"   # вставь токен от @BotFather
+  chat_id: "837095301"     # вставь свой chat_id
+
+schedule:
+  digest_weekday: "monday"
+  digest_time_utc: "07:00"
+
+scanner:
+  refresh_interval_minutes: 60
+
+sources:
+  bybit: true
+  binance: true
+  okx: true
+  tokenunlocks: true
+  airdrops: true

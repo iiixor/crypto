@@ -1,0 +1,28 @@
+[
+  {
+    "id": "binance:OPN:20260221",
+    "type": "listing",
+    "source": "binance",
+    "token": "OPN",
+    "title": "Binance Futures Will Launch USDⓈ-Margined OPNUSDT Perpetual Contract Pre-Market Trading (2026-02-21)",
+    "date": "2026-02-21T00:00:00Z",
+    "url": "https://www.binance.com/en/support/announcement/10096321bd8f49658a749fe00d8ea4ff",
+    "details": "",
+    "sent_digest": true,
+    "sent_24h": false,
+    "sent_2h": false
+  },
+  {
+    "id": "okx:EUR:20260220",
+    "type": "listing",
+    "source": "okx",
+    "token": "EUR",
+    "title": "OKX to support 60 tokens on unified USD and EUR spot trading pairs in EEA",
+    "date": "2026-02-20T09:00:16Z",
+    "url": "https://www.okx.com/en-eu/help/okx-to-support-60-tokens-on-unified-usd-and-eur-spot-trading-pairs-in-eea",
+    "details": "",
+    "sent_digest": true,
+    "sent_24h": false,
+    "sent_2h": false
+  }
+]

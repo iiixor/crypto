@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Go binaries
+bot/crypto-bot
+bot/cmd/*/main
