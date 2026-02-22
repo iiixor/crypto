@@ -58,7 +58,7 @@ func (s *BybitScanner) Scan(ctx context.Context) ([]model.Event, error) {
 		}
 		events = append(events, ev)
 	}
-	return events, nil
+	return deduplicateEvents(events), nil
 }
 
 func (s *BybitScanner) fetchAnnouncements(ctx context.Context) ([]bybitAnnouncement, error) {
